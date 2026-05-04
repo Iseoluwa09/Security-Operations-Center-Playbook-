@@ -171,7 +171,7 @@ Were there any controls or actions that helped limit the damage? Be honest. If n
 List at least four specific security gaps this incident revealed about SecureNow Ltd.
 
 
-* Lack of enforced multi factor authentication across key systems 
+> * Lack of enforced multi factor authentication across key systems 
 * No endpoint management or MDM
 * Absence of security monitoring tools such as SIEM or EDR
 * No VPN or secure access control for remote workers.
